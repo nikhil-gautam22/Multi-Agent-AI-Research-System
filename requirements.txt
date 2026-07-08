@@ -1,0 +1,72 @@
+# ===========================
+# LangChain & LangGraph
+# ===========================
+langchain
+langchain-core
+langchain-community
+langgraph
+langsmith
+
+# ===========================
+# Google Gemini
+# ===========================
+google-genai
+langchain-google-genai
+
+# ===========================
+# Mistral AI
+# ===========================
+mistralai
+langchain-mistralai
+
+# ===========================
+# Search Tool
+# ===========================
+tavily-python
+
+# ===========================
+# Web Scraping
+# ===========================
+beautifulsoup4
+lxml
+requests
+httpx
+
+# ===========================
+# Environment Variables
+# ===========================
+python-dotenv
+
+# ===========================
+# Data Validation
+# ===========================
+pydantic
+typing-extensions
+
+# ===========================
+# Async & Utilities
+# ===========================
+aiohttp
+anyio
+tenacity
+orjson
+
+# ===========================
+# Tokenization
+# ===========================
+tiktoken
+
+# ===========================
+# Markdown & Parsing
+# ===========================
+markdown
+
+# ===========================
+# Optional (JS Websites)
+# ===========================
+playwright
+
+# ===========================
+# Logging
+# ===========================
+rich
